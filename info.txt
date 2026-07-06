@@ -1,0 +1,9 @@
+Kernel mode isn't a feature yet; the external is currently in a user-mode version.
+
+OPEN MENU KEYBIND AND INSTRUCTION -
+
+-Open loader.exe and then in the menu click "Attach to Roblox" (MAKE SURE THAT ROBLOX IS OPENED).
+
+-After that, just use F4/INSERT to toggle menu; the eject keybind is F7.
+
+-The external supports almost every game in Roblox except Rivals, Overkill, and some other dynamic FPS games. The external is in its early version, so don't expect too much from it.
