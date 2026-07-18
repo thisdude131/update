@@ -1,1 +1,24 @@
- TEST: cheat does not suport games with duel system like rivals or overkill, this will be fixed anytime soon.
+cheat does not suport games with duel system like rivals or overkill, this will be fixed anytime soon.
+
+FIXES :
+-fixed esp lags, now esp is stable as fuck
+-fixed buggy menu when fullscreen is off
+
+NEW FEATURES :
+-added keybind list
+-added explorer (idk what this thing does but ig)
+-added esp previev
+-added top bar for options
+-added more suport for menu including a option to change menu colour accent 
+
+SUPPORTED GAMES :
+-dahood ( and every copy ) 
+-arsenal
+-murder mystery 2
+-kat
+-litelary every fucking game that dont have duel system
+
+WARNINGS !
+ cheat will crash when u try to open it in rivals or any other duel system game. 
+
+
